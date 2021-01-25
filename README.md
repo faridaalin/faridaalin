@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://github-readme-stats.vercel.app/api?username=faridaalin&show_icons=true&theme=calm" />
+<img src="https://github-readme-stats.vercel.app/api?username=faridaalin&show_icons=true&theme=radical" />
 
 <!--
 **faridaalin/faridaalin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
